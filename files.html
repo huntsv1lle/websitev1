@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="navbar.css">
+  <title>Activites | Huntsville</title>
+  <link rel="icon" type="image/x-icon" href="assets/imgs/favicon.png">
+</head>
+
+<body>
+
+
+
+  <div id="particles-js">
+    <script src="particles.js-master/particles.js"></script>
+    <script src="particles.js-master/demo/js/app.js"></script>
+  </div>
+
+  <div class="topnav">
+    <a href="/">Home</a>
+    <a class="active" href="./files.html">Activites</a>
+    <a href="./proxy.html">Proxy</a>
+    <a href="./blog.html">Blog</a>
+    <a href="./about.html">About</a>
+  </div>
+
+  <center>
+    <input class="searchbar" placeholder="Search Files" />
+  </center>
+
+  <div class="files"></div>
+
+  <div class="gamecontainer hidden">
+    <button class="back">
+      <img src="assets/imgs/backArrow3.png">
+    </button>
+    <button class="screen">
+      <img src="assets/imgs/fullScreen2.png">
+    </button>
+    <div class="frame">
+      <iframe frameborder="0" allowfullscreen="true" id="gameframe" class="gameframe">
+        <script src="js/blockI.js"></script>
+      </iframe>
+    </div>
+  </div>
+</body>
+
+<script src="js/games.js"></script>
+<script src="js/searchbar.js"></script>
+<script src="js/blockI.js"></script>
+
+</html>

@@ -1,33 +1,136 @@
-.game {
-    width: 150px;
-    display: inline-block;
-    margin-left: 50px;
-    margin-top: 50px;
-    padding-bottom: 100px;
-    color: black;
-    transition: all .3s ease-in-out;
+.file {
+  width: 150px;
+  height: auto;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+  color: black;
+  transition: all .3s ease-in-out;
+  background-color: #09143C;
+  border-radius: 14px;
+  text-align: center;
+  padding-bottom: 7px;
+  font-size: scale;
+  overflow: hidden;
 }
 
-.game img {
-    width: 150px;
-    height: auto;
-    border-radius: 14px;
-  }
-  
-.game:hover {
-    transform: scale(1.2);
-  }
+.file img {
+  width: 150px;
+  height: 150px;
+  border-radius: 14px;
+}
 
-
-
-
-.games {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, 200px);
-    justify-content: space-between;
-    grid-gap: 2rem;
-    margin: 1rem 2rem 2rem 2rem;
+.file:hover {
+  transform: scale(1.2);
 }
 
 
 
+
+.files {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  position: relative;
+  background-color: transparent;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+.hidden {
+  display: none;
+}
+
+.gamecontainer {
+  height: 50em;
+  background-color: black;
+}
+
+.gamecontainer>div {
+  height: 100%;
+}
+
+.gamecontainer>div>iframe {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  position: fixed;
+}
+
+html,
+body {
+  background-color: #111;
+}
+
+#particles-js {
+  position: absolute;
+  width: 100% !important;
+  height: 1875px !important;
+  background-color: #111;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
+.back {
+  position: fixed;
+  z-index: 2;
+  background-color: transparent;
+  border-radius: 20px;
+  font-size: 50px;
+  font-style: bold;
+  color: transparent;
+  border-color: transparent;
+  border: none;
+}
+
+.back>img {
+  height: 50px;
+}
+
+.screen {
+  margin-left: 70px;
+  position: fixed;
+  z-index: 5;
+  background-color: transparent;
+  border-color: transparent;
+  border-radius: 10px;
+
+}
+
+.fileName {
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  overflow: hidden;
+}
+
+.searchbar {
+  position: relative;
+  z-index: 20;
+  background-color: transparent;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+  overflow: hidden;
+  font-size: 15px;
+  border-color: white;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+.searchbar::placeholder {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  overflow: hidden;
+  font-size: 15px;
+  border: none;
+}

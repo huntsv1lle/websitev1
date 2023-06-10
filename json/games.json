@@ -15,9 +15,241 @@
         "name": "1v1.lol",
         "root": "1v1lol",
         "file": "index.html",
-        "img": "logo.png"
+        "img": "logo.jfif"
     },
     {
-        
+        "name": "1v1.space",
+        "root": "1v1space",
+        "file": "index.html",
+        "img": "splash.png"
+    },
+    {
+      "name": "2048 Multitask",
+      "root": "2048-multitask",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "2048",
+      "root": "2048",
+      "file": "index.html",
+      "img": "2048.png"
+    },
+        {
+      "name": "9007199254740992",
+      "root": "9007199254740992",
+      "file": "index.html",
+      "img": "logo-4.png"
+    },
+        {
+      "name": "99 Balls",
+      "root": "99balls",
+      "file": "index.html",
+      "img": "99-balls-evo.jpg"
+    },
+       {
+      "name": "DOOMORI",
+      "root": "DOOMORI",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+       {
+      "name": "Doge Miner",
+      "root": "DogeMiner",
+      "file": "index.html",
+      "img": "img/dogeminer_300x300.png"
+    },
+       {
+      "name": "Doge Miner 2",
+      "root": "DogeMiner2",
+      "file": "index.html",
+      "img": "thumb.jpg"
+    },
+       {
+      "name": "HexGL",
+      "root": "HexGL",
+      "file": "index.html",
+      "img": "icon_256.png"
+    },
+    {
+      "name": "Monkey Mart",
+      "root": "MonkeyMart",
+      "file": "index.html",
+      "img": "bg_loading.png"
+    },
+    {
+      "name": "Offline Paradise",
+      "root": "OfflineParadise",
+      "file": "index.html",
+      "img":  "assets/icon.jpeg"
+    },
+    {
+      "name": "Rocket League",
+      "root": "Rocket-League",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "Run 2",
+      "root": "Run%202",
+      "file": "index.html",
+      "img": "run-2-logo.jpg"
+    },
+    {
+      "name": "Shape Shootout",
+      "root": "ShapeShootout",
+      "file": "index.html",
+      "img": "Icon.png"
+    },
+    {
+      "name": "Stickman Survival",
+      "root": "Stickman-Survival",
+      "file": "index.html",
+      "img": "Icon.png"
+    },
+    {
+      "name": "Trimps",
+      "root": "Trimps",
+      "file": "index.html",
+      "img": "trimp.jpg"
+    },
+    {
+      "name": "A Dance of Fire And Ice",
+      "root": "a-dance-of-fire-and-ice",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "Achievement Unlocked",
+      "root": "achievementunlocked",
+      "file": "index.html",
+      "img": "achievementunlocked.png"
+    },
+    {
+      "name": "Adrenaline Challenge",
+      "root": "adrenalinechallenge",
+      "file": "index.html",
+      "img": "adrenalinechallenge.jpg"
+    },
+    {
+      "name": "Adventure Divers",
+      "root": "adventure-divers",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "Ages of Conflict",
+      "root": "ages-of-conflict",
+      "file": "index.html",
+      "img": "splash.jpg"
+    },
+    {
+      "name": "Alien Hominid",
+      "root": "alienhominid",
+      "file": "index.html",
+      "img": "alienhominid.jpg"
+    },
+    {
+      "name": "Amazing Rope Police",
+      "root": "amazing-rope-police",
+      "file": "index.html",
+      "img": "amazing-strange-rope-police-vice-spider-vegas.jpg"
+    },
+    {
+      "name": "Amidst the Clouds",
+      "root": "amidst-the-clouds",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "Among Us",
+      "root": "among-us",
+      "file": "index.html",
+      "img": "red.png"
+    },
+    {
+      "name": "Angelunder",
+      "root": "angelunder",
+      "file": "index.html",
+      "img": "TemplateData/favicon.ico"
+    },
+    {
+      "name": "Angry Sharks",
+      "root": "angry-sharks",
+      "file": "index.html",
+      "img": "assets/img/splash.png"
+    },
+    {
+      "name": "Aquapark Slides",
+      "root": "aquapark-slides",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "Astray",
+      "root": "astray",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "Avalanche",
+      "root": "avalanche",
+      "file": "index.html",
+      "img": "avalanche.png"
+    },
+    {
+      "name": "Awesome Tanks 2",
+      "root": "awesome-tanks2",
+      "file": "index.html",
+      "img": "awesometanks2.jpg"
+    },
+    {
+      "name": "Backrooms",
+      "root": "backrooms",
+      "file": "index.html",
+      "img": "img/splash.jpg"
+    },
+    {
+      "name": "Backrooms 2D",
+      "root": "backrooms2d",
+      "file": "backrooms2d.html",
+      "img": "BF18A6F3-4A1B-4AF7-B383-B9A359A1DBDF.jpeg"
+    },
+    {
+      "name": "Bacon May Die",
+      "root": "bacon-may-die",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "Bad Ice Cream 2",
+      "root": "bad-ice-cream-2",
+      "file": "index.html",
+      "img": "bad-ice-cream-2.png"
+    },
+    {
+      "name": "Bad Ice Cream 3",
+      "root": "bad-ice-cream-3",
+      "file": "index.html",
+      "img": "bad-ice-cream-3.png"
+    },
+    {
+      "name": "Bad Ice Cream",
+      "root": "bad-ice-cream",
+      "file": "index.html",
+      "img": "bad-ice-cream.png"
+    },
+    {
+      "name": "Baldis Basics",
+      "root": "baldis-basics",
+      "file": "index.html",
+      "img": "splash.png"
+    },
+    {
+      "name": "Ball Dodge",
+      "root": "balldodge",
+      "file": "balldodge.html",
+      "img": "1D9A05FA-1D29-40D3-8DA3-F9A30AD7470E.jpeg"
     }
+    
 ]

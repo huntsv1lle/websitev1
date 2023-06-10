@@ -1,0 +1,16 @@
+#particles-js {
+  position: absolute;
+  width: 100% !important;
+  height: 1875px !important;
+  background-color: #111;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
+html,
+body {
+  background-color: #111;
+}
